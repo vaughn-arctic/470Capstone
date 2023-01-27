@@ -45,7 +45,7 @@ The main document is both requirements and design:
             
             
             
-##1/24
+## 1/24
 
 ALEX HILL scholarship if working on a community project
 
@@ -132,8 +132,15 @@ make updates easy
 #### Finish here  
 Pick up next class
 
+## 1/26
 
+# Arctic Spark Thermal Imaging with Boro
+[Proposal Guildines](https://docs.google.com/document/d/1FXH15dz2AcKGvCCo54791-7nqb79ktrdqKgJnAyRNec/edit)
 
+### Continuing Security Sins
 
+### Design
+
+fdsa
 
 
