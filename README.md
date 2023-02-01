@@ -143,4 +143,74 @@ Pick up next class
 
 fdsa
 
+## 1/31
 
+REMEMBER TO COMMIT YOUR WORK STUPID!!!!!!
+
+
+### Resume Tips w/ Alexis from Career Services
+
+Don't use Canva
+Obtain Templets from Career Services, USA JOBS
+
+Tailor your resume for each JOB!!! Mimic the language used in the Job Description
+
+- Highlight the job description
+- Note related and transferable skills 
+- Note anything else might be relevant
+
+- Projects section !!!!
+- Arctic Coastline Modeling
+- DuckieBot
+- New thing I'm working on 
+- Skills Section
+- Don't use photos
+- 
+
+Cover Letter
+- start using cover letters
+- match w/ cover letter template
+- Dear hiring manager
+
+part | contents
+--|--
+intro | who are you and why you are interested
+body | exapnd qualifications
+conclusion | tahnk you for you considerations
+> using personalized 'I' language to convey a story about your qualifications
+
+### 470 Notes for the day
+
+Proposal due wednsday Feb 8th 
+- Status report
+      1. brief description
+      2. what progress has been made
+      3. challenges have you face
+      4. what are you going to work on next
+
+### Gui Bloopers 
+
+#### Basic Principles 
+![image](https://user-images.githubusercontent.com/70354960/215926227-43f67d41-f2f8-474e-bf50-235435feba32.png)
+
+> mistakes when designing graphical user interfaces. Goal is to give example of mistakes and help designesrs and developers
+1. Foucus on user and their tasks, not the tech
+      - software shouldn't be designed for them or by them, but with them
+2. Consider function first, presentation later
+      > function is the basic requirements of the software, before Gui creation we need to know what data the users can create, view or modify
+3. conform to user's view
+      - strive for naturalness
+      - don't impose abitary restrictions
+      - user vocabulary not tech jargon
+      - keep internals inside (don't allow access to critical functionality) 
+4. dont complicate user's tasks
+      - don't give extra problems to solve, operate in the background of user's though process
+5. facillitate and promote learning 
+      > be consistent in design and implementaiton 
+6. Deliver information, not just data
+7. the screen belongs to the user
+      > helsp the user retain context<br>
+      > preserve display inertia, "don't jump around or reload screen" 
+      - Real time interface
+            - productivty falls as response time grows 
+8. Test Early and often, 
