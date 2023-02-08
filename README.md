@@ -214,3 +214,19 @@ Proposal due wednsday Feb 8th
       - Real time interface
             - productivty falls as response time grows 
 8. Test Early and often, 
+
+## 2/7 
+
+Continuing GUI Bloopers.... Nothing really extra outside of the slides <br>
+
+Top Ten Web Design mistakes
+1. using frames
+2. gratuitous use of new technology
+3. scrolling text, animations
+4. complex URLs
+5. Orphan pages
+6. Long pages
+7. Lack of naviagtion support
+8. Non-standard link colors
+9. Outdated information
+10. slow download times
