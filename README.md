@@ -230,3 +230,31 @@ Top Ten Web Design mistakes
 8. Non-standard link colors
 9. Outdated information
 10. slow download times
+
+## 2/28 Where does the time go
+## IP 
+
+```
+Patent = inventions; process, machine, design, something novel
+
+Copyright = original work of authorship: art, books, software, forms
+any tangible medium of expression, (reproducible medium 
+copyright protects expression of an idea, but not the idea itself
+must be original authored work 
+
+Trademark = Company name, logos, slogans
+      R & TM = registered and In the application process
+      only way to aquire rights is use a mark are 
+            - be first to properly use it in your TRADE AREA
+            - or file trademark application
+      Can be anything
+            - words
+            - sounds
+            - colors
+            - images
+      Servicesmark (SM) = services a business provides
+
+Trade secret = any info that gives owner competitive advantage
+      must be documrted and kept confidential 
+      - prove it exist
+      no registration needed
